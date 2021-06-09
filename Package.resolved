@@ -1,0 +1,88 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "KeychainAccess",
+        "repositoryURL": "https://github.com/kishikawakatsumi/KeychainAccess.git",
+        "state": {
+          "branch": null,
+          "revision": "654d52d30f3dd4592e944c3e0bccb53178c992f6",
+          "version": "4.2.1"
+        }
+      },
+      {
+        "package": "NerdzCodable",
+        "repositoryURL": "https://github.com/nerdzlab/NerdzCodable.git",
+        "state": {
+          "branch": null,
+          "revision": "8bab3084ba536e709b1dfa1ac758d00ed5173c7e",
+          "version": "1.0.3"
+        }
+      },
+      {
+        "package": "NerdzDate",
+        "repositoryURL": "https://github.com/nerdzlab/NerdzDate.git",
+        "state": {
+          "branch": null,
+          "revision": "35d9fe9ba8b5e07878d7236ce056ec0f09ab73bd",
+          "version": "1.0.4"
+        }
+      },
+      {
+        "package": "NerdzEvents",
+        "repositoryURL": "https://github.com/nerdzlab/NerdzEvents.git",
+        "state": {
+          "branch": null,
+          "revision": "671ba23c0d2255fbd5a40556f4d2bfd22907e774",
+          "version": "1.0.7"
+        }
+      },
+      {
+        "package": "NerdzInject",
+        "repositoryURL": "https://github.com/nerdzlab/NerdzInject.git",
+        "state": {
+          "branch": null,
+          "revision": "58f9494bab75f181f60f5b69eb9132fa2cee137e",
+          "version": "1.0.8"
+        }
+      },
+      {
+        "package": "NerdzNetworking",
+        "repositoryURL": "https://github.com/nerdzlab/NerdzNetworking.git",
+        "state": {
+          "branch": null,
+          "revision": "85509f7e1a0f7292af779bf8818fbe02c29157a3",
+          "version": "1.1.1"
+        }
+      },
+      {
+        "package": "NerdzStyle",
+        "repositoryURL": "https://github.com/nerdzlab/NerdzStyle.git",
+        "state": {
+          "branch": null,
+          "revision": "9ef4555ee6bac6b9b9faf6feda84f16d4cb94641",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "NerdzUtils",
+        "repositoryURL": "https://github.com/nerdzlab/NerdzUtils.git",
+        "state": {
+          "branch": null,
+          "revision": "4f38459fad678af2343b11b3e0006c8bcdb77f3b",
+          "version": "1.0.56"
+        }
+      },
+      {
+        "package": "NerdzValidation",
+        "repositoryURL": "https://github.com/nerdzlab/NerdzValidation.git",
+        "state": {
+          "branch": null,
+          "revision": "9533038b6e2e9d5d00fb4a6fb73ef50ada9c0ce8",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
